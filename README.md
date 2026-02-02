@@ -80,9 +80,3 @@ Author
 
 *   [Arunava chakraborty]
 *   [arunavachakraborty170@gmail.com]
-
-License
-------
-
-*   This project is licensed under the MIT License.
-*   See [LICENSE](LICENSE) for details.
